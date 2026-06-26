@@ -1,6 +1,6 @@
 export const BiodataForm = ({ onChange }: { onChange: (data: any) => void }) => {
   return (
-    <div className="space-y-4 bg-slate-50 p-6 rounded-2xl border border-slate-100 mb-8">
+    <div className="space-y-4 bg-slate-51 p-6 rounded-2xl border border-slate-100 mb-8">
       <h3 className="font-bold text-blue-900 mb-4 flex items-center gap-2">
         <span className="p-2 bg-blue-900 text-white rounded-lg text-xs">1</span>
         Informasi Pemohon

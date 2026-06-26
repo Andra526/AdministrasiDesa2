@@ -43,11 +43,11 @@ const Lokasi = () => {
             <div className="flex flex-wrap gap-6 px-4 pt-4">
               <div className="flex items-center gap-3 text-slate-600 font-bold text-sm hover:text-blue-900 transition-colors">
                 <div className="p-2 bg-slate-100 rounded-lg"><Phone size={16} /></div>
-                (0283) 465123
+                
               </div>
               <div className="flex items-center gap-3 text-slate-600 font-bold text-sm hover:text-blue-900 transition-colors">
                 <div className="p-2 bg-slate-100 rounded-lg"><Mail size={16} /></div>
-                info@balapulang.desa.id
+                
               </div>
             </div>
           </div>
